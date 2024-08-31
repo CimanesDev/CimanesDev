@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CimanesDev
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Java
-- 📫 How to reach me jmcimanes@up.edu.ph | cimanesdev@gmail.com
+- 🎓 University of the Philippines Manila
+- 👩🏻‍💻 BS Computer Science 
+- 📫 How to reach me
+jmcimanes@up.edu.ph | cimanesdev@gmail.com
 
 
 <!---
